@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/2016_style/img/ACTS_LOGO 2.png"
+logo: "../css/2016_style/img/favicon.ico"
 
 social: 
   name: Your Facebook Page
