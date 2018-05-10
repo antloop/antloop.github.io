@@ -1,33 +1,27 @@
 <!DOCTYPE html>
 <html>
+{% include 2016_data/head.html %}
 
-  {% include 2016_data/head.html %}
+<body id="page-top" class="index">
 
+{% include 2017_data/header-home.html %}
 
-    <body id="page-top" class="index">
-
-     {% include 2017_data/header-home.html %}
-
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="intro-text">
-                <div class="intro-heading">Acts<br></div>
-                <div class="intro-lead-in">Acts make test simple！</div>
-                <!-- <div class="intro-lead-in">Location</div> -->
-                <a href="#intro" class="page-scroll btn btn-xl">Learn More</a>
-            </div>
+<header>
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-heading">Acts<br></div>
+            <div class="intro-lead-in">Acts make test simple！</div>
+            <!-- <div class="intro-lead-in">Location</div> -->
+            <a href="#intro" class="page-scroll btn btn-xl">Learn More</a>
         </div>
-    </header>
+    </div>
+</header>
 
-    <!--{% include 2017_data/intro.html %}-->
-    <!--{% include 2017_data/speakers.html %}-->
-    {% include 2017_data/about.html %}
-    <!--{% include 2017_data/sponsors.html %}-->
-    <!--{% include 2016_data/contact.html %}-->
-    {% include 2016_data/footer.html %}
-    <!--{% include 2017_data/speakers_info.html %}-->
-    {% include 2016_data/js.html %}
+{% include 2017_data/intro.html %}
+{% include 2016_data/about.html %}
+{% include 2016_data/footer.html %}
 
-    </body>
+{% include 2016_data/js.html %}
+
+
 </html>
