@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6880283c-7246-48b8-bb06-9516754bd8c7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/2016_css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/2016_css/agency.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/css/2016_style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/2016_style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/2016_data/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/2016_data/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,19 +21,33 @@
       <file leaf-file-name="2017_home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="400">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/css/2016_style/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="49">
               <caret line="348" column="94" selection-start-line="348" selection-start-column="94" selection-end-line="348" selection-end-column="94" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/2016/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3288">
+              <caret line="281" column="58" selection-start-line="281" selection-start-column="58" selection-end-line="281" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
@@ -43,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/2016_data/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="446">
+              <caret line="54" column="32" selection-start-line="54" selection-start-column="36" selection-end-line="56" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
@@ -73,7 +89,7 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/2016_css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="6820">
               <caret line="341" column="94" selection-start-line="341" selection-start-column="94" selection-end-line="341" selection-end-column="94" />
             </state>
           </provider>
@@ -114,6 +130,7 @@
       <find>favicon.ico</find>
       <find>alipa</find>
       <find>alipayobjects</find>
+      <find>说</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,10 +147,10 @@
         <option value="$PROJECT_DIR$/_layouts/2017_home.html" />
         <option value="$PROJECT_DIR$/_includes/2017_data/about.html" />
         <option value="$PROJECT_DIR$/_includes/2016_data/footer.html" />
-        <option value="$PROJECT_DIR$/_includes/2016_data/about.html" />
         <option value="$PROJECT_DIR$/_includes/2017_data/intro.html" />
         <option value="$PROJECT_DIR$/_includes/2016_css/agency.css" />
         <option value="$PROJECT_DIR$/_site/css/2016_style/style.css" />
+        <option value="$PROJECT_DIR$/_includes/2016_data/about.html" />
       </list>
     </option>
   </component>
@@ -152,6 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -192,6 +211,12 @@
               <item name="antloop.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="antloop.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antloop.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antloop.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="2016" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="antloop.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -243,8 +268,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,12 +352,13 @@
       <workItem from="1525947281251" duration="3114000" />
       <workItem from="1525955913338" duration="171000" />
       <workItem from="1525956120836" duration="3117000" />
-      <workItem from="1526006375059" duration="29000" />
+      <workItem from="1526006375059" duration="107000" />
+      <workItem from="1526033355421" duration="102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9892000" />
+    <option name="totallyTimeSpent" value="10072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -361,7 +385,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546495" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25822604" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -379,6 +403,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_site/css/2016_style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9200">
+          <caret line="348" column="94" selection-start-line="348" selection-start-column="94" selection-end-line="348" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -690,19 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/2016_data/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -710,13 +728,6 @@
           <folding>
             <marker date="1525924562000" expanded="true" signature="259:916" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -736,7 +747,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/2016_css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="6820">
           <caret line="341" column="94" selection-start-line="341" selection-start-column="94" selection-end-line="341" selection-end-column="94" />
         </state>
       </provider>
@@ -745,6 +756,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49">
           <caret line="348" column="94" selection-start-line="348" selection-start-column="94" selection-end-line="348" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2016/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3288">
+          <caret line="281" column="58" selection-start-line="281" selection-start-column="58" selection-end-line="281" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/2016_data/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="36" selection-end-line="56" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
